@@ -23,7 +23,8 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "allowUnusedLabels": false,
-    "allowUnreachableCode": false
+    "allowUnreachableCode": false,
+    "types": ["node", "jest"],
   },
   "include": [
     "src/**/*"
